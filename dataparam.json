@@ -1,0 +1,48 @@
+[
+  {
+    person_id: 5,
+    name: "name05",
+    email: "test05@test.com",
+    books: [
+      {
+        book_id: 5,
+        title: "title05",
+        author: "author05",
+        publishingCompany: "publishing_company5",
+        publishingYear: "1995",
+        location: "Brazil"
+      },
+      {
+        book_id: 6,
+        title: "title06",
+        author: "author06",
+        publishingCompany: "publishing_company06",
+        publishingYear: "1999",
+        location: "USA"
+      }
+    ]
+  },
+  {
+    person_id: 6,
+    name: "name07",
+    email: "test02@test.com",
+    books: [
+      {
+        book_id: 8,
+        title: "title08",
+        author: "author08",
+        publishingCompany: "publishing_company08",
+        publishingYear: "1998",
+        location: "Brazil"
+      },
+      {
+        book_id: 9,
+        title: "title09",
+        author: "author09",
+        publishingCompany: "publishing_company09",
+        publishingYear: "1999",
+        location: "USA"
+      }
+    ]
+  }
+]
